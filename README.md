@@ -14,7 +14,7 @@ This repositories contains slides and links to various resources mentioned durin
 
 ## Resources
 
-[The National Academy of Sciences report on Reproducibility and Replicability in Science]([Reproducibility and Replicability in Science | The National Academies Press](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science))  Free PDF available for download.
+[The National Academy of Sciences report on Reproducibility and Replicability in Science](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science)  Free PDF available for download.
 
 
 
