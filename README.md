@@ -7,6 +7,15 @@ This workshop is part of a series on [Reproducibility for Biomedical Researchers
 
 ### Slides
 
+![Imgur](https://i.imgur.com/4OiMlC8.png)
+
+This repositories contains slides and links to various resources mentioned during the workshop. For any questions or clarifications please file an issue.
 
 
-This repositories contains slides and links to various resources mentioned during the workshop. For any questions or clarifications please fil an issue.
+## Resources
+
+[The National Academy of Sciences report on Reproducibility and Replicability in Science]([Reproducibility and Replicability in Science | The National Academies Press](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science))  Free PDF available for download.
+
+
+
+
