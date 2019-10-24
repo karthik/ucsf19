@@ -7,7 +7,7 @@ This workshop is part of a series on [Reproducibility for Biomedical Researchers
 
 ### Slides
 
-![Imgur](https://i.imgur.com/4OiMlC8.png)
+[![Imgur](https://i.imgur.com/4OiMlC8.png)](http://inundata.org/talks/open-code/#/)
 
 This repositories contains slides and links to various resources mentioned during the workshop. For any questions or clarifications please file an issue.
 
